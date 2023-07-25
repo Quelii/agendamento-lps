@@ -1,0 +1,22 @@
+a{
+    text-decoration: none;
+} 
+nav{
+    padding-bottom: 35%;
+}
+nav .nav-item a{
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+nav .nav-item:hover {
+    color:mediumblue;
+
+}
+nav p a{
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
